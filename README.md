@@ -1,5 +1,5 @@
 # My Machine Learning code samples using Python in Google Colab Jupyter Notebook IDE
-# Done as part of ML exercises for my Online Masters in Computer Science at Georga Tech - USA
+#### Done as part of ML exercises for my Online Masters in Computer Science at Georga Tech - USA
 
 ## Topics: 
 🔗 Supervised learning / Unsupervised learning
